@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+<db host="localhost" user="dummy" password="dummy" table="booking_cita" />
+
+<appts number="70">
+<date start="20130205" end="20130207">
+<block start="100000" end="140000" />
+<block start="140000" end="173000" />
+</date>
+</appts>
+</config>

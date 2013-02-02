@@ -1,17 +1,17 @@
 #!/usr/bin/bash
 
 #Config values
-datestart=20130131
-dateend=20130131
+datestart=20130207
+dateend=20130207
 #Times must be 24h starting with 0s
 timestart=1600
 timeend=1730
 #Duration must be mins
 duration=18
-threshold=70
-table="cita"
+threshold=50
+table="booking_cita"
 #Start at id #
-ap=68
+ap=50
 
 #Convert time to mins
 function htom {
